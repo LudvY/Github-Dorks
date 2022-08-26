@@ -11,12 +11,12 @@ Will be some updates soon like: screenshoting , curl and more ...
 ## Installation :
 
 ```
-git clone https://github.com/LudvY/Github-Dorks.git ; cd Github-Dorks ; chmod +x dorks.sh 
+git clone https://github.com/LudvY/Github-Dorks.git ; cd Github-Dorks ; chmod +x github.sh 
 ```
 
 ## Usage : 
 ```
-bash dorks.sh yahoo.com [use any root domain for this recon {*.extension} ]
+bash github.sh yahoo.com [use any root domain for this recon {*.extension} ]
 ```
 
 ## Bash Profile : {Optionnel}
