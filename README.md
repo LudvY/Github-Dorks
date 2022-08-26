@@ -7,3 +7,9 @@ unfortunately, for now it Manual Entery , doesn't curl any reposetories in Githu
 
 
 Will be some updates soon like: screenshoting , curl and more ...
+
+# Installation :
+
+```
+git clone 
+```
