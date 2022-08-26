@@ -1,4 +1,4 @@
-# Github Dorks Links Generator  For Bug Hunters
+# Github Dork Links Generator  For RECON to Bug Hunters
 
  This is very simple bash scripte written by me , it's just use loop in BASH & some personal wordlists dorks by me
  
